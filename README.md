@@ -3,4 +3,4 @@ Mainly inspired by the ISDS 574 class that I'm taking in Spring 2017 with Dr. Yi
 
 ## Dataset used
 
-[example] (http://github.com)
+[example](http://github.com)
